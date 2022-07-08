@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Jura:wght@700&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="../css/estilo.css">
+    <title>Your Phone Shopping</title>
+</head>
+<body>
+    <header>
+        <!--Barra de navegación-->
+        <nav>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../views/nosotros.html">Nosotros</a></li>
+                <li><a href="../index.html">Smartphones</a></li>
+                <li><a href="../views/formulario.html">Contacto</a></li>
+                <li><a href="../views/carrito.html" id="cajaCarrito"><i class="bi bi-cart"></i></a></li>
+            </ul>
+        </nav>
+      </div><hr>
+      <h1>
+        Shopping!
+      </h1>
+  </header>
+  <main>
+      <h2>Carrito</h2><br>
+
+      <table class="table table-primary text-center">
+
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Precio</th>
+                <th>Cantidad</th>
+                <th>Subtotal</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+      </table>
+  </main>
+  <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <script src="../js/carrito.js"></script>
+</body>
+</html>

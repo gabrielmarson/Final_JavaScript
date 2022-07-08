@@ -1,0 +1,88 @@
+{
+
+    "equipos" : [
+    
+    
+        {
+            "marca":"Samsung",
+            "modelo" : "S22 Ultra",
+            "precio":"250000",
+            "imagen" :"/img/s22_ultra_300.png",
+            "id": 1 
+    
+        },{
+            "marca":"Motorola",
+            "modelo" : "Edge 20 Pro",
+            "precio":"100000",
+            "imagen" :"/img/moto_edge20_pro_300.png",
+            "id": 2
+        },{
+    
+            "marca":"Xiaomi",
+            "modelo" : "Mi 11 Ultra",
+            "precio":"65000",
+            "imagen" :"/img/mi_11_ultra_300.png",
+            "id": 3
+    
+        },{
+            "marca":"Iphone",
+            "modelo" : "13 Pro Max",
+            "precio":"400000",
+            "imagen" :"/img/iphone13pro_300.png",
+            "id": 4
+        },{
+            "marca":"Samsung",
+            "modelo" : "A 51",
+            "precio":"80000",
+            "imagen" :"/img/samsung_A51_300.png",
+            "id": 5
+        },{
+            "marca":"Samsung",
+            "modelo" : "A 52",
+            "precio":"95000",
+            "imagen" :"/img/samsung_A52_300.png",
+            "id": 6
+        },{
+            "marca":"Motorola",
+            "modelo" : "G 20",
+            "precio":"50000",
+            "imagen" :"/img/moto_G20_300.png",
+            "id": 7
+        },{
+            "marca":"Xiaomi",
+            "modelo" : "Note 10 Pro",
+            "precio":"70000",
+            "imagen" :"/img/xiaomi_Note_10_Pro_300.png",
+            "id": 8
+        },
+        {
+            "marca":"Iphone",
+            "modelo" : "12 Pro",
+            "precio":"290000",
+            "imagen" :"/img/iphone_12_Pro_300.png",
+            "id": 9
+        },
+        {
+            "marca":"Motorola",
+            "modelo" : "E6 PLus",
+            "precio":"38000",
+            "imagen" :"/img/moto_E6_Plus_300.png",
+            "id": 10
+        },
+        {
+            "marca":"Xiaomi",
+            "modelo" : "Redmi Note 9",
+            "precio":"45000",
+            "imagen" :"/img/xiaomi_redmi_note_9_300.png",
+            "id": 11
+        },
+        {
+            "marca":"Iphone",
+            "modelo" : "11",
+            "precio":"180000",
+            "imagen" :"/img/iphone_11_300.png",
+            "id": 12
+        }
+    
+    ]
+}
