@@ -1,6 +1,6 @@
 //Profe aca para empezar lo primero que hago es llamar al json por medio del fetch y guardarlo en una variable
 
-fetch("http://localhost/js/equipos.json")
+fetch("/js/equipos.json")
     .then((resp) => resp.json())
     .then((data) => {
 
